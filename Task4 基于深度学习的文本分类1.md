@@ -18,9 +18,7 @@
 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-YR0i2ZAJ3fFf7L2CvMny+FWH76iHZNNIcD1YX57o4cdBHev8ffMXOfzy5F/lpBJpLttwPahk3zY/8XXaRH12ew==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-611d22d99009ddf15fecbd82bcc9f2f8.css" />
-  
-    <link crossorigin="anonymous" media="all" integrity="sha512-cGOLZD3OVF/M/+99KmgPU6rP4hL+RHX6PAFE9AyMS798R0FvPmaPg6k9SowLhhBSUnXUdM3vspLmkuotNCRSoQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-70638b643dce545fccffef7d2a680f53.css" />
-    
+ 
     
     
     
