@@ -1,8 +1,4 @@
 
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -154,9 +150,6 @@ if self.training:
 </ul>
 </article>
   </div>
-
-    </div>
-
 
   </body>
 </html>
